@@ -9,5 +9,7 @@ function getNine() {
   return x + y;
 }
 
-let result = getNine;
+
+
+let result = getNine ();
 console.log(result);
